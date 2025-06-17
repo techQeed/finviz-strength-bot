@@ -1,3 +1,4 @@
-finvizfinance
-python-telegram-bot
-apscheduler
+python-telegram-bot==13.15
+beautifulsoup4
+requests
+schedule
