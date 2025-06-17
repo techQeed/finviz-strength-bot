@@ -1,0 +1,3 @@
+finvizfinance
+python-telegram-bot
+apscheduler
